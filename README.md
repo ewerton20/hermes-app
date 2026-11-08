@@ -38,7 +38,7 @@ Contas, identidade, cadastro do motorista e corridas funcionam com um servidor r
 - **Primeira abertura:** o servidor está no plano gratuito e dorme sem uso. Ele pode levar cerca de 1 minuto para acordar, e o app espera.
 - **iPhone:** ainda não há versão.
 
-## App do passageiro
+## Aplicativo do Cliente
 
 <p align="center">
   <img src="docs/app-pedido.png" alt="Pedido com a rota e a escolha do carro" width="200">
@@ -56,7 +56,7 @@ Contas, identidade, cadastro do motorista e corridas funcionam com um servidor r
 - **Depois da corrida:** resumo de para onde vai o valor (motorista, pedágio, Hermes), avaliação e "Esqueci algo no carro".
 - **Conta:** lugares salvos (Casa, Trabalho), acessibilidade (cão-guia, cadeira de rodas, prefiro mensagens), português e inglês, tema escuro e claro.
 
-## App do motorista
+## Aplicativo do Motorista
 
 <p align="center">
   <picture>
@@ -71,7 +71,7 @@ Contas, identidade, cadastro do motorista e corridas funcionam com um servidor r
 - **Ganhos:** hoje, semana e mês, com corridas, tempo online e gorjetas.
 - **Gestão:** agenda, documentos com validade, veículos, vistoria a cada 90 dias e avaliações com elogios e reclamações agrupados.
 
-## Frota
+## Opções de categorias
 
 <p align="center"><img src="docs/frota.png" alt="Categorias: Econômico, Conforto, SUV, Premium e Van" width="760"></p>
 
